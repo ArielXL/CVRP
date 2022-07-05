@@ -1,0 +1,1610 @@
+ITERACIÓN 1
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [2, 3, 23, 28, 11, 4, 22, 29, 20]
+RUTA 2 : [30, 1, 12, 16, 14, 24]
+RUTA 3 : [6, 18, 8, 9, 15, 10, 25, 5]
+RUTA 4 : [19, 17, 31, 21, 13, 7, 26]
+RUTA 5 : [27]
+
+FITNESS = 856.32
+TIEMPO DE EJECUCIÓN = 29.392 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 2
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 9, 22, 18, 8, 11, 4, 28, 27]
+RUTA 2 : [24, 25, 10, 15, 29, 5, 20]
+RUTA 3 : [30, 16, 7, 6, 23, 3, 2, 26]
+RUTA 4 : [13, 19, 17, 31, 21, 1]
+RUTA 5 : [12]
+
+FITNESS = 865.76
+TIEMPO DE EJECUCIÓN = 29.157 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 3
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [13, 19, 31, 17, 21, 1]
+RUTA 2 : [26, 6, 2, 3, 23, 7, 16, 30]
+RUTA 3 : [28, 4, 11, 8, 18, 22, 9, 27]
+RUTA 4 : [20, 5, 25, 10, 15, 29, 14, 24]
+RUTA 5 : [12]
+
+FITNESS = 850.41
+TIEMPO DE EJECUCIÓN = 28.953 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 4
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 23, 28, 4, 11, 8, 22, 9, 18, 14]
+RUTA 2 : [21, 31, 19, 17, 13, 7]
+RUTA 3 : [30, 12, 1, 16, 26, 24]
+RUTA 4 : [20, 5, 25, 10, 15, 29, 3, 2]
+RUTA 5 : [27]
+
+FITNESS = 849.98
+TIEMPO DE EJECUCIÓN = 29.042 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 5
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [7, 13, 17, 19, 31, 21, 26]
+RUTA 2 : [27, 22, 9, 8, 11, 4, 28, 18, 14]
+RUTA 3 : [20, 5, 29, 15, 10, 25, 24]
+RUTA 4 : [30, 16, 1, 3, 2, 23, 6]
+RUTA 5 : [12]
+
+FITNESS = 861.15
+TIEMPO DE EJECUCIÓN = 29.177 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 6
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [29, 9, 22, 15, 10, 25, 5, 20]
+RUTA 2 : [6, 17, 19, 31, 21, 13]
+RUTA 3 : [2, 3, 23, 11, 4, 28, 8, 18, 14]
+RUTA 4 : [30, 26, 16, 12, 1, 7]
+RUTA 5 : [24, 27]
+
+FITNESS = 824.28
+TIEMPO DE EJECUCIÓN = 29.174 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 7
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [4, 11, 28, 23, 2, 3, 6, 14]
+RUTA 2 : [8, 18, 22, 9, 15, 10, 25, 29, 5, 20]
+RUTA 3 : [12, 21, 31, 19, 17, 26]
+RUTA 4 : [30, 7, 13, 1, 16]
+RUTA 5 : [24, 27]
+
+FITNESS = 848.39
+TIEMPO DE EJECUCIÓN = 29.183 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 8
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 4, 11, 8, 18, 9, 22, 27]
+RUTA 2 : [13, 19, 17, 31, 21, 1]
+RUTA 3 : [26, 6, 23, 3, 2, 7, 16, 30]
+RUTA 4 : [20, 25, 10, 15, 29, 5, 24]
+RUTA 5 : [12]
+
+FITNESS = 852.12
+TIEMPO DE EJECUCIÓN = 29.147 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 9
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 6, 3, 23, 2, 17, 19]
+RUTA 2 : [20, 25, 10, 15, 29, 5, 27]
+RUTA 3 : [28, 4, 11, 8, 9, 22, 18, 24]
+RUTA 4 : [12, 1, 21, 31, 13, 7, 26]
+RUTA 5 : [16, 30]
+
+FITNESS = 868.86
+TIEMPO DE EJECUCIÓN = 29.095 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 10
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 2, 3, 23, 28, 4, 11, 8, 18, 14]
+RUTA 2 : [21, 31, 19, 17, 6, 24]
+RUTA 3 : [29, 9, 22, 15, 10, 25, 5, 20]
+RUTA 4 : [12, 1, 13, 7, 16]
+RUTA 5 : [27, 30]
+
+FITNESS = 836.99
+TIEMPO DE EJECUCIÓN = 29.218 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 11
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [20, 5, 25, 10, 15, 8, 18, 9, 22, 29]
+RUTA 2 : [14, 28, 4, 11, 23, 2, 3, 6]
+RUTA 3 : [21, 31, 19, 17, 13, 7, 26]
+RUTA 4 : [12, 1, 16, 30, 24]
+RUTA 5 : [27]
+
+FITNESS = 827.56
+TIEMPO DE EJECUCIÓN = 29.085 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 12
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 11, 8, 9, 22, 25, 5, 20]
+RUTA 2 : [24, 16, 1, 12, 30]
+RUTA 3 : [21, 31, 17, 19, 13, 7, 26]
+RUTA 4 : [6, 3, 2, 23, 4, 18, 15, 10, 29]
+RUTA 5 : [27]
+
+FITNESS = 873.56
+TIEMPO DE EJECUCIÓN = 29.113 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 13
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 13, 3, 2, 23, 14, 24]
+RUTA 2 : [6, 28, 4, 11, 8, 9, 22, 18]
+RUTA 3 : [16, 17, 19, 31, 21, 7, 26]
+RUTA 4 : [20, 5, 25, 15, 10, 29, 27]
+RUTA 5 : [12, 30]
+
+FITNESS = 866.67
+TIEMPO DE EJECUCIÓN = 29.604 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 14
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [12, 1, 6, 23, 2, 3, 14]
+RUTA 2 : [27, 25, 10, 15, 29, 5, 20]
+RUTA 3 : [24, 22, 9, 18, 8, 4, 11, 28]
+RUTA 4 : [26, 7, 13, 17, 19, 31, 21]
+RUTA 5 : [30, 16]
+
+FITNESS = 862.23
+TIEMPO DE EJECUCIÓN = 28.929 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 15
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 4, 11, 8, 18, 9, 22, 27]
+RUTA 2 : [13, 21, 19, 17, 31, 1]
+RUTA 3 : [24, 29, 15, 10, 25, 5, 20]
+RUTA 4 : [6, 23, 3, 2, 7, 16, 26, 30]
+RUTA 5 : [12]
+
+FITNESS = 842.82
+TIEMPO DE EJECUCIÓN = 29.094 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 16
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [8, 18, 9, 22, 15, 25, 10, 29, 5, 20]
+RUTA 2 : [13, 21, 31, 17, 19, 1]
+RUTA 3 : [26, 6, 23, 3, 2, 4, 11, 28]
+RUTA 4 : [12, 7, 14, 24, 27]
+RUTA 5 : [16, 30]
+
+FITNESS = 860.41
+TIEMPO DE EJECUCIÓN = 28.958 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 17
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [20, 5, 25, 10, 29, 14, 24, 27]
+RUTA 2 : [30, 1, 21, 19, 17, 31, 26]
+RUTA 3 : [6, 3, 23, 2, 13, 7, 16]
+RUTA 4 : [15, 9, 22, 11, 4, 28, 8, 18]
+RUTA 5 : [12]
+
+FITNESS = 863.05
+TIEMPO DE EJECUCIÓN = 29.09 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 18
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 3, 2, 23, 4, 11, 9, 29]
+RUTA 2 : [27, 24, 7, 1, 12]
+RUTA 3 : [14, 28, 8, 18, 22, 15, 10, 25, 5, 20]
+RUTA 4 : [16, 13, 17, 19, 31, 21, 26]
+RUTA 5 : [30]
+
+FITNESS = 820.73
+TIEMPO DE EJECUCIÓN = 29.12 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 19
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 2, 3, 23, 28, 4, 11]
+RUTA 2 : [16, 17, 19, 31, 21, 7, 26]
+RUTA 3 : [18, 8, 22, 9, 15, 29, 10, 25, 5, 20]
+RUTA 4 : [24, 14, 13, 1, 12, 30]
+RUTA 5 : [27]
+
+FITNESS = 844.61
+TIEMPO DE EJECUCIÓN = 29.05 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 20
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 8, 4, 11, 28, 23, 2, 3]
+RUTA 2 : [20, 5, 25, 10, 15, 22, 9, 29]
+RUTA 3 : [12, 1, 16, 7, 30]
+RUTA 4 : [13, 17, 19, 31, 21, 6, 26]
+RUTA 5 : [24, 27]
+
+FITNESS = 822.52
+TIEMPO DE EJECUCIÓN = 29.11 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 21
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [13, 21, 31, 17, 19, 1]
+RUTA 2 : [14, 27, 5, 25, 15, 10, 29, 20]
+RUTA 3 : [28, 4, 11, 8, 18, 9, 22, 24]
+RUTA 4 : [30, 16, 7, 2, 23, 3, 6, 26]
+RUTA 5 : [12]
+
+FITNESS = 880.39
+TIEMPO DE EJECUCIÓN = 29.059 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 22
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [13, 21, 17, 19, 31, 1]
+RUTA 2 : [16, 7, 3, 2, 23, 14, 24]
+RUTA 3 : [9, 22, 18, 8, 11, 4, 28, 6, 26]
+RUTA 4 : [27, 29, 15, 10, 25, 5, 20]
+RUTA 5 : [12, 30]
+
+FITNESS = 848.2
+TIEMPO DE EJECUCIÓN = 29.275 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 23
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [9, 22, 11, 4, 28, 8, 18, 24]
+RUTA 2 : [14, 6, 23, 3, 2, 7, 16, 26, 30]
+RUTA 3 : [13, 17, 19, 31, 21, 1]
+RUTA 4 : [20, 5, 25, 10, 15, 29, 27]
+RUTA 5 : [12]
+
+FITNESS = 840.01
+TIEMPO DE EJECUCIÓN = 29.248 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 24
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 21, 31, 17, 19, 13]
+RUTA 2 : [14, 11, 4, 28, 3, 23, 2, 6, 26]
+RUTA 3 : [20, 25, 10, 5, 29, 15, 22, 9, 8, 18]
+RUTA 4 : [27, 24, 7, 16, 12]
+RUTA 5 : [30]
+
+FITNESS = 849.95
+TIEMPO DE EJECUCIÓN = 29.307 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 25
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [22, 9, 15, 29, 10, 25, 5, 20]
+RUTA 2 : [7, 1, 12, 16, 30]
+RUTA 3 : [13, 21, 31, 17, 19, 6, 26]
+RUTA 4 : [2, 3, 23, 28, 4, 11, 8, 18, 14]
+RUTA 5 : [24, 27]
+
+FITNESS = 822.29
+TIEMPO DE EJECUCIÓN = 29.183 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 26
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [24, 14, 2, 3, 23, 13, 7, 26]
+RUTA 2 : [20, 5, 25, 10, 15, 29, 27]
+RUTA 3 : [30, 17, 19, 31, 21, 1]
+RUTA 4 : [6, 8, 28, 4, 11, 18, 9, 22]
+RUTA 5 : [16, 12]
+
+FITNESS = 869.23
+TIEMPO DE EJECUCIÓN = 29.009 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 27
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 13, 19, 17, 31, 21, 30]
+RUTA 2 : [16, 7, 2, 3, 23, 28, 8, 18, 14]
+RUTA 3 : [6, 4, 11, 9, 22, 15, 29, 20]
+RUTA 4 : [24, 5, 25, 10, 27]
+RUTA 5 : [12, 1]
+
+FITNESS = 893.5
+TIEMPO DE EJECUCIÓN = 29.09 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 28
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [24, 26, 16, 1, 12, 30]
+RUTA 2 : [14, 2, 3, 23, 28, 4, 11, 6]
+RUTA 3 : [20, 25, 29, 9, 22, 18, 8, 15, 10, 5]
+RUTA 4 : [21, 31, 17, 19, 13, 7]
+RUTA 5 : [27]
+
+FITNESS = 871.57
+TIEMPO DE EJECUCIÓN = 29.102 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 29
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 8, 11, 4, 28, 23, 3, 2]
+RUTA 2 : [24, 27, 7, 16, 30]
+RUTA 3 : [6, 17, 19, 31, 21, 13, 26]
+RUTA 4 : [20, 5, 25, 10, 22, 9, 15, 29]
+RUTA 5 : [1, 12]
+
+FITNESS = 845.03
+TIEMPO DE EJECUCIÓN = 28.983 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 30
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 2 : [2, 3, 23, 11, 4, 28, 6]
+RUTA 3 : [7, 17, 19, 31, 21, 1]
+RUTA 4 : [30, 26, 16, 12, 13, 14, 24]
+RUTA 5 : [27]
+
+FITNESS = 855.58
+TIEMPO DE EJECUCIÓN = 28.978 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 31
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [22, 9, 18, 8, 11, 4, 28, 23]
+RUTA 2 : [24, 14, 6, 2, 3, 7, 30]
+RUTA 3 : [16, 21, 31, 19, 17, 13, 26]
+RUTA 4 : [27, 29, 15, 10, 25, 5, 20]
+RUTA 5 : [12, 1]
+
+FITNESS = 846.17
+TIEMPO DE EJECUCIÓN = 29.194 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 32
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [8, 18, 22, 9, 15, 29, 10, 25, 5, 20]
+RUTA 2 : [14, 4, 11, 28, 23, 3, 2, 6]
+RUTA 3 : [17, 19, 31, 21, 13, 7]
+RUTA 4 : [24, 26, 16, 12, 1, 30]
+RUTA 5 : [27]
+
+FITNESS = 831.94
+TIEMPO DE EJECUCIÓN = 28.978 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 33
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 2, 3, 23, 28, 4, 11, 14]
+RUTA 2 : [16, 17, 19, 31, 21, 13, 26]
+RUTA 3 : [18, 8, 9, 22, 15, 25, 10, 29, 5, 20]
+RUTA 4 : [27, 24, 7, 1, 12]
+RUTA 5 : [30]
+
+FITNESS = 822.52
+TIEMPO DE EJECUCIÓN = 29.167 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 34
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 19, 17, 31, 21, 13]
+RUTA 2 : [14, 28, 23, 2, 3, 6, 7, 16]
+RUTA 3 : [20, 25, 10, 5, 24, 27]
+RUTA 4 : [30, 26, 18, 8, 11, 4, 22, 9, 15, 29]
+RUTA 5 : [12]
+
+FITNESS = 895.9
+TIEMPO DE EJECUCIÓN = 29.64 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 35
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 8, 22, 9, 15, 29, 25, 10, 5, 20]
+RUTA 2 : [21, 31, 19, 17, 13, 7, 26]
+RUTA 3 : [30, 1, 12, 16, 24]
+RUTA 4 : [6, 2, 3, 23, 4, 11, 28, 18]
+RUTA 5 : [27]
+
+FITNESS = 841.06
+TIEMPO DE EJECUCIÓN = 31.366 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 36
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [2, 3, 23, 28, 4, 11, 8, 18, 14]
+RUTA 2 : [7, 1, 12, 16, 30]
+RUTA 3 : [9, 22, 15, 10, 25, 29, 5, 20]
+RUTA 4 : [6, 17, 31, 19, 21, 13, 26]
+RUTA 5 : [24, 27]
+
+FITNESS = 832.0
+TIEMPO DE EJECUCIÓN = 30.228 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 37
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 3, 2, 7, 1, 12]
+RUTA 2 : [20, 5, 25, 10, 15, 22, 29, 27]
+RUTA 3 : [16, 21, 19, 17, 31, 13]
+RUTA 4 : [14, 18, 9, 8, 11, 4, 28, 23, 26, 30]
+RUTA 5 : [24]
+
+FITNESS = 874.88
+TIEMPO DE EJECUCIÓN = 30.071 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 38
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [13, 17, 19, 31, 21, 16]
+RUTA 2 : [14, 22, 9, 18, 8, 11, 4, 28, 23, 6]
+RUTA 3 : [20, 5, 25, 10, 15, 29, 27]
+RUTA 4 : [30, 26, 2, 3, 7, 1, 12]
+RUTA 5 : [24]
+
+FITNESS = 836.73
+TIEMPO DE EJECUCIÓN = 30.391 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 39
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [20, 25, 10, 29, 5, 27, 24]
+RUTA 2 : [15, 9, 22, 18, 8, 11, 4, 28, 14]
+RUTA 3 : [13, 17, 19, 31, 21, 1]
+RUTA 4 : [26, 6, 23, 3, 2, 7, 16, 30]
+RUTA 5 : [12]
+
+FITNESS = 856.83
+TIEMPO DE EJECUCIÓN = 30.239 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 40
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [21, 31, 19, 17, 13, 7, 26]
+RUTA 2 : [22, 9, 18, 8, 28, 11, 4, 23, 6]
+RUTA 3 : [27, 29, 15, 10, 25, 5, 20]
+RUTA 4 : [12, 1, 3, 2, 14, 24]
+RUTA 5 : [30, 16]
+
+FITNESS = 849.15
+TIEMPO DE EJECUCIÓN = 30.131 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 41
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 31, 17, 19, 21, 7]
+RUTA 2 : [20, 5, 29, 9, 22, 18, 8, 4, 11, 28, 14]
+RUTA 3 : [24, 27, 15, 10, 25]
+RUTA 4 : [30, 16, 13, 2, 3, 23, 6, 26]
+RUTA 5 : [12]
+
+FITNESS = 875.31
+TIEMPO DE EJECUCIÓN = 30.484 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 42
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 3, 23, 28, 4, 11, 8, 18, 9, 22, 14]
+RUTA 2 : [12, 1, 13, 7, 16]
+RUTA 3 : [6, 2, 17, 31, 19, 21]
+RUTA 4 : [20, 5, 25, 15, 10, 29, 27]
+RUTA 5 : [30, 24]
+
+FITNESS = 858.89
+TIEMPO DE EJECUCIÓN = 29.293 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 43
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [16, 17, 19, 31, 21, 13, 26]
+RUTA 2 : [27, 29, 15, 10, 25, 5, 20]
+RUTA 3 : [30, 1, 7, 6, 2, 3, 23, 14]
+RUTA 4 : [22, 9, 11, 4, 28, 8, 18, 24]
+RUTA 5 : [12]
+
+FITNESS = 844.46
+TIEMPO DE EJECUCIÓN = 29.093 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 44
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 2, 3, 23, 4, 11, 28, 8, 18, 14]
+RUTA 2 : [9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 3 : [13, 21, 31, 19, 17, 6]
+RUTA 4 : [30, 16, 7, 1, 12]
+RUTA 5 : [27, 24]
+
+FITNESS = 824.95
+TIEMPO DE EJECUCIÓN = 29.306 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 45
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 28, 4, 11, 9, 22, 15, 29]
+RUTA 2 : [12, 1, 23, 2, 3, 6, 14]
+RUTA 3 : [21, 31, 19, 17, 13, 7]
+RUTA 4 : [24, 27, 25, 10, 5, 20]
+RUTA 5 : [30, 16, 26]
+
+FITNESS = 853.65
+TIEMPO DE EJECUCIÓN = 29.178 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 46
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 13, 19, 17, 31, 21, 16]
+RUTA 2 : [14, 22, 9, 18, 8, 28, 11, 4, 23, 6]
+RUTA 3 : [20, 5, 29, 15, 10, 25, 27]
+RUTA 4 : [30, 12, 1, 7, 2, 3]
+RUTA 5 : [24]
+
+FITNESS = 866.12
+TIEMPO DE EJECUCIÓN = 29.287 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 47
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 11, 4, 28, 9, 22, 15, 29]
+RUTA 2 : [27, 24, 10, 25, 5, 20]
+RUTA 3 : [12, 7, 23, 2, 3, 6, 14]
+RUTA 4 : [13, 21, 19, 17, 31, 1]
+RUTA 5 : [30, 16, 26]
+
+FITNESS = 868.53
+TIEMPO DE EJECUCIÓN = 29.23 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 48
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 4, 11, 8, 18, 22, 9, 15]
+RUTA 2 : [16, 13, 21, 31, 17, 19, 26]
+RUTA 3 : [20, 5, 25, 10, 29, 27, 24]
+RUTA 4 : [6, 23, 2, 3, 7, 1]
+RUTA 5 : [12, 30]
+
+FITNESS = 857.04
+TIEMPO DE EJECUCIÓN = 28.961 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 49
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [24, 27, 29, 10, 25, 5, 20]
+RUTA 2 : [13, 21, 31, 17, 19, 1]
+RUTA 3 : [16, 7, 3, 23, 18, 8, 22, 9, 15, 14]
+RUTA 4 : [30, 26, 28, 11, 4, 2, 6]
+RUTA 5 : [12]
+
+FITNESS = 915.08
+TIEMPO DE EJECUCIÓN = 29.214 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 50
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 2 : [21, 19, 31, 17, 13, 7, 26]
+RUTA 3 : [27, 24, 14, 1, 16, 30]
+RUTA 4 : [28, 4, 11, 23, 2, 3, 6]
+RUTA 5 : [12]
+
+FITNESS = 833.75
+TIEMPO DE EJECUCIÓN = 28.816 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 51
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 8, 11, 4, 28, 23, 3, 2]
+RUTA 2 : [21, 31, 17, 19, 13, 6, 26]
+RUTA 3 : [20, 5, 25, 10, 29, 15, 9, 22]
+RUTA 4 : [12, 1, 7, 16, 30]
+RUTA 5 : [27, 24]
+
+FITNESS = 817.92
+TIEMPO DE EJECUCIÓN = 29.022 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 52
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 4, 11, 28, 8, 9, 22, 27]
+RUTA 2 : [20, 5, 25, 10, 15, 29, 24]
+RUTA 3 : [30, 1, 7, 6, 2, 3, 23, 14]
+RUTA 4 : [16, 21, 31, 17, 19, 13, 26]
+RUTA 5 : [12]
+
+FITNESS = 858.52
+TIEMPO DE EJECUCIÓN = 29.044 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 53
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 4, 11, 28, 23, 2, 3, 14]
+RUTA 2 : [20, 5, 25, 10, 15, 29, 9, 22]
+RUTA 3 : [6, 17, 19, 31, 21, 13, 26]
+RUTA 4 : [12, 1, 7, 16, 30]
+RUTA 5 : [27, 24]
+
+FITNESS = 827.03
+TIEMPO DE EJECUCIÓN = 29.052 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 54
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 11, 4, 28, 23, 2, 3, 14]
+RUTA 2 : [25, 10, 15, 22, 9, 29, 5, 20]
+RUTA 3 : [6, 19, 17, 31, 21, 13, 26]
+RUTA 4 : [1, 7, 16, 12, 30]
+RUTA 5 : [27, 24]
+
+FITNESS = 832.55
+TIEMPO DE EJECUCIÓN = 28.899 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 55
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 3, 2, 19, 31, 17, 21]
+RUTA 2 : [12, 1, 7, 13, 24]
+RUTA 3 : [6, 23, 28, 4, 11, 8, 18, 9, 22, 14]
+RUTA 4 : [27, 29, 15, 10, 25, 5, 20]
+RUTA 5 : [30, 16]
+
+FITNESS = 847.76
+TIEMPO DE EJECUCIÓN = 28.992 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 56
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [28, 4, 11, 8, 18, 9, 22, 29, 27]
+RUTA 2 : [24, 14, 15, 10, 25, 5, 20]
+RUTA 3 : [12, 21, 17, 19, 31]
+RUTA 4 : [1, 7, 13, 6, 2, 23, 3, 26]
+RUTA 5 : [16, 30]
+
+FITNESS = 871.3
+TIEMPO DE EJECUCIÓN = 28.987 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 57
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [13, 17, 19, 31, 21, 1]
+RUTA 2 : [26, 6, 2, 3, 28, 4, 11, 8, 29]
+RUTA 3 : [30, 12, 16, 7, 14, 24]
+RUTA 4 : [23, 18, 9, 22, 15, 10, 25, 5, 20]
+RUTA 5 : [27]
+
+FITNESS = 847.97
+TIEMPO DE EJECUCIÓN = 28.978 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 58
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 2, 23, 3, 6, 7, 16, 26, 30]
+RUTA 2 : [20, 5, 10, 25, 27, 24]
+RUTA 3 : [13, 17, 19, 31, 21, 1]
+RUTA 4 : [29, 15, 22, 9, 18, 28, 11, 4, 8]
+RUTA 5 : [12]
+
+FITNESS = 873.55
+TIEMPO DE EJECUCIÓN = 29.028 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 59
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 21, 31, 17, 19, 7]
+RUTA 2 : [24, 29, 15, 10, 25, 5, 20]
+RUTA 3 : [27, 9, 22, 18, 8, 11, 4, 28, 14]
+RUTA 4 : [30, 16, 13, 23, 2, 3, 6, 26]
+RUTA 5 : [12]
+
+FITNESS = 844.72
+TIEMPO DE EJECUCIÓN = 28.934 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 60
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 22, 8, 11, 4, 28, 23, 2, 3]
+RUTA 2 : [6, 13, 21, 17, 19, 31]
+RUTA 3 : [30, 16, 12, 1, 7, 26]
+RUTA 4 : [9, 15, 29, 10, 25, 5, 20]
+RUTA 5 : [27, 24]
+
+FITNESS = 854.18
+TIEMPO DE EJECUCIÓN = 29.078 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 61
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 2, 3, 23, 4, 28, 11, 14]
+RUTA 2 : [16, 31, 17, 19, 21, 13, 26]
+RUTA 3 : [18, 8, 9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 4 : [27, 24, 7, 1, 12]
+RUTA 5 : [30]
+
+FITNESS = 832.29
+TIEMPO DE EJECUCIÓN = 29.201 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 62
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [20, 5, 10, 25, 29, 15, 22, 9, 8, 18]
+RUTA 2 : [21, 19, 31, 17, 13, 26]
+RUTA 3 : [2, 3, 23, 4, 11, 28, 6]
+RUTA 4 : [30, 7, 1, 16, 12]
+RUTA 5 : [27, 14, 24]
+
+FITNESS = 846.26
+TIEMPO DE EJECUCIÓN = 29.056 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 63
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 6, 23, 2, 3, 13, 12]
+RUTA 2 : [7, 17, 19, 31, 21, 1]
+RUTA 3 : [14, 28, 4, 11, 8, 18, 9, 22, 27]
+RUTA 4 : [20, 5, 25, 15, 10, 29, 24]
+RUTA 5 : [30, 16]
+
+FITNESS = 855.71
+TIEMPO DE EJECUCIÓN = 29.115 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 64
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [21, 31, 19, 17, 13, 7, 26]
+RUTA 2 : [24, 23, 2, 3, 1, 12]
+RUTA 3 : [14, 9, 22, 18, 8, 11, 4, 28, 6]
+RUTA 4 : [27, 29, 15, 10, 25, 5, 20]
+RUTA 5 : [16, 30]
+
+FITNESS = 840.9
+TIEMPO DE EJECUCIÓN = 29.179 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 65
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 9, 22, 18, 8, 11, 4, 28, 23, 6]
+RUTA 2 : [20, 5, 29, 15, 25, 10, 27]
+RUTA 3 : [21, 31, 17, 19, 2, 3, 26]
+RUTA 4 : [16, 7, 13, 1, 12]
+RUTA 5 : [30, 24]
+
+FITNESS = 869.33
+TIEMPO DE EJECUCIÓN = 29.152 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 66
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [29, 15, 22, 9, 18, 3, 1, 12]
+RUTA 2 : [21, 19, 31, 17, 13, 7, 26]
+RUTA 3 : [6, 2, 23, 28, 11, 4, 8, 14]
+RUTA 4 : [24, 27, 10, 25, 5, 20]
+RUTA 5 : [16, 30]
+
+FITNESS = 899.87
+TIEMPO DE EJECUCIÓN = 29.155 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 67
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 23, 2, 3, 18, 29, 25, 10, 5, 20]
+RUTA 2 : [15, 22, 9, 8, 11, 4, 28, 14]
+RUTA 3 : [16, 19, 31, 17, 21, 13, 26]
+RUTA 4 : [27, 24, 7, 1, 12]
+RUTA 5 : [30]
+
+FITNESS = 867.6
+TIEMPO DE EJECUCIÓN = 29.241 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 68
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 11, 4, 23, 3, 2, 6]
+RUTA 2 : [20, 5, 25, 10, 29, 15, 22, 9, 8, 18]
+RUTA 3 : [30, 16, 12, 1, 7]
+RUTA 4 : [13, 17, 19, 31, 21, 26]
+RUTA 5 : [24, 27]
+
+FITNESS = 809.63
+TIEMPO DE EJECUCIÓN = 29.202 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 69
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 11, 4, 23, 3, 2, 6]
+RUTA 2 : [21, 31, 17, 19, 13, 7, 26]
+RUTA 3 : [20, 5, 25, 10, 22, 9, 8, 18, 15, 29]
+RUTA 4 : [24, 1, 12, 16, 30]
+RUTA 5 : [27]
+
+FITNESS = 836.43
+TIEMPO DE EJECUCIÓN = 29.133 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 70
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 28, 4, 11, 2, 3, 23, 6]
+RUTA 2 : [30, 1, 12, 16, 26, 24]
+RUTA 3 : [14, 8, 22, 9, 15, 29, 25, 10, 5, 20]
+RUTA 4 : [7, 13, 31, 19, 17, 21]
+RUTA 5 : [27]
+
+FITNESS = 856.31
+TIEMPO DE EJECUCIÓN = 29.054 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 71
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 8, 11, 4, 28, 9, 22, 27]
+RUTA 2 : [12, 17, 19, 31, 21, 30]
+RUTA 3 : [6, 3, 23, 2, 13, 1, 7, 26]
+RUTA 4 : [24, 29, 15, 10, 25, 5, 20]
+RUTA 5 : [16]
+
+FITNESS = 859.78
+TIEMPO DE EJECUCIÓN = 28.941 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 72
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [29, 8, 18, 9, 22, 15, 10, 25, 5, 20]
+RUTA 2 : [24, 16, 1, 12, 30]
+RUTA 3 : [7, 21, 17, 19, 31, 13, 26]
+RUTA 4 : [14, 28, 4, 11, 23, 2, 3, 6]
+RUTA 5 : [27]
+
+FITNESS = 827.52
+TIEMPO DE EJECUCIÓN = 29.088 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 73
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [7, 13, 19, 17, 31, 21, 26]
+RUTA 2 : [14, 28, 11, 4, 8, 22, 15, 10, 5]
+RUTA 3 : [20, 25, 29, 9, 18, 23, 2, 3, 6]
+RUTA 4 : [12, 1, 16, 30, 24]
+RUTA 5 : [27]
+
+FITNESS = 870.6
+TIEMPO DE EJECUCIÓN = 29.048 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 74
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 2, 3, 23, 4, 11, 28]
+RUTA 2 : [7, 13, 21, 31, 19, 17]
+RUTA 3 : [20, 5, 25, 10, 29, 15, 22, 9, 8, 18]
+RUTA 4 : [30, 1, 12, 16, 26, 14]
+RUTA 5 : [24, 27]
+
+FITNESS = 827.03
+TIEMPO DE EJECUCIÓN = 28.959 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 75
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 23, 2, 3, 6, 1, 16]
+RUTA 2 : [24, 18, 8, 22, 9, 11, 4, 28]
+RUTA 3 : [20, 5, 25, 10, 15, 29, 27]
+RUTA 4 : [13, 19, 17, 31, 21, 7, 26]
+RUTA 5 : [30, 12]
+
+FITNESS = 854.57
+TIEMPO DE EJECUCIÓN = 29.016 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 76
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [29, 8, 11, 4, 28, 3, 2, 6]
+RUTA 2 : [12, 1, 16, 30, 14, 24]
+RUTA 3 : [20, 5, 25, 10, 15, 9, 22, 18, 23, 26]
+RUTA 4 : [7, 13, 21, 31, 19, 17]
+RUTA 5 : [27]
+
+FITNESS = 849.51
+TIEMPO DE EJECUCIÓN = 29.091 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 77
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [5, 29, 22, 9, 11, 4, 28, 8, 18, 6, 26]
+RUTA 2 : [30, 27, 15, 10, 25, 20]
+RUTA 3 : [23, 3, 2, 19, 17, 31, 21]
+RUTA 4 : [13, 7, 1, 12, 16]
+RUTA 5 : [24, 14]
+
+FITNESS = 881.75
+TIEMPO DE EJECUCIÓN = 29.012 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 78
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 2, 3, 23, 4, 11, 28]
+RUTA 2 : [8, 18, 9, 22, 15, 25, 10, 29, 5, 20]
+RUTA 3 : [31, 19, 17, 21, 13, 7, 26]
+RUTA 4 : [27, 24, 14, 1, 12]
+RUTA 5 : [16, 30]
+
+FITNESS = 846.46
+TIEMPO DE EJECUCIÓN = 28.937 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 79
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 8, 28, 11, 4, 2, 3, 6]
+RUTA 2 : [21, 31, 19, 17, 13, 7, 26]
+RUTA 3 : [23, 18, 22, 9, 15, 29, 10, 25, 5, 20]
+RUTA 4 : [24, 16, 1, 12, 30]
+RUTA 5 : [27]
+
+FITNESS = 848.25
+TIEMPO DE EJECUCIÓN = 29.238 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 80
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [29, 15, 9, 22, 10, 25, 5, 20]
+RUTA 2 : [6, 13, 17, 19, 31, 21, 26]
+RUTA 3 : [2, 3, 23, 28, 4, 11, 8, 18, 14]
+RUTA 4 : [30, 16, 7, 1, 12]
+RUTA 5 : [24, 27]
+
+FITNESS = 812.65
+TIEMPO DE EJECUCIÓN = 29.101 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 81
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 4, 11, 28, 23, 2, 3, 6]
+RUTA 2 : [21, 31, 19, 17, 13, 7]
+RUTA 3 : [30, 16, 1, 12, 26, 24]
+RUTA 4 : [20, 5, 25, 10, 15, 8, 9, 22, 29]
+RUTA 5 : [27]
+
+FITNESS = 826.56
+TIEMPO DE EJECUCIÓN = 29.049 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 82
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 23, 28, 4, 11, 22, 9, 18, 8, 14]
+RUTA 2 : [12, 1, 7, 24, 27]
+RUTA 3 : [16, 17, 19, 31, 21, 13, 26]
+RUTA 4 : [20, 5, 29, 10, 25, 15, 2, 3]
+RUTA 5 : [30]
+
+FITNESS = 883.82
+TIEMPO DE EJECUCIÓN = 29.049 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 83
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 2, 3, 23, 28, 4, 11, 8, 18]
+RUTA 2 : [16, 7, 6, 14, 24, 27]
+RUTA 3 : [1, 13, 21, 31, 17, 19]
+RUTA 4 : [29, 22, 9, 15, 10, 25, 5, 20]
+RUTA 5 : [12, 30]
+
+FITNESS = 830.87
+TIEMPO DE EJECUCIÓN = 29.014 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 84
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [3, 2, 23, 28, 4, 11, 8, 18, 14]
+RUTA 2 : [6, 13, 21, 17, 19, 31, 26]
+RUTA 3 : [30, 7, 16, 1, 12]
+RUTA 4 : [9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 5 : [27, 24]
+
+FITNESS = 832.33
+TIEMPO DE EJECUCIÓN = 29.01 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 85
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 2 : [3, 2, 23, 4, 11, 28, 6, 14]
+RUTA 3 : [30, 16, 7, 1, 12]
+RUTA 4 : [13, 21, 17, 19, 31, 26]
+RUTA 5 : [24, 27]
+
+FITNESS = 819.44
+TIEMPO DE EJECUCIÓN = 29.254 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 86
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [24, 29, 15, 10, 25, 5, 20]
+RUTA 2 : [30, 1, 21, 31, 17, 19, 26]
+RUTA 3 : [16, 7, 13, 2, 23, 3, 6]
+RUTA 4 : [27, 4, 28, 11, 8, 18, 9, 22, 14]
+RUTA 5 : [12]
+
+FITNESS = 867.29
+TIEMPO DE EJECUCIÓN = 29.081 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 87
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 21, 19, 17, 31, 13, 14]
+RUTA 2 : [16, 7, 1, 12, 30]
+RUTA 3 : [11, 4, 28, 3, 2, 23, 6]
+RUTA 4 : [20, 5, 25, 10, 29, 15, 22, 9, 8, 18]
+RUTA 5 : [27, 24]
+
+FITNESS = 839.63
+TIEMPO DE EJECUCIÓN = 29.1 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 88
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 8, 9, 22, 15, 29, 10, 25, 5, 20]
+RUTA 2 : [6, 3, 2, 23, 28, 4, 11, 14]
+RUTA 3 : [30, 16, 7, 1, 12]
+RUTA 4 : [13, 17, 19, 31, 21, 26]
+RUTA 5 : [27, 24]
+
+FITNESS = 804.66
+TIEMPO DE EJECUCIÓN = 29.265 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 89
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [12, 1, 13, 7, 16]
+RUTA 2 : [27, 5, 25, 10, 15, 29, 20]
+RUTA 3 : [21, 19, 31, 17, 2, 3, 23]
+RUTA 4 : [22, 9, 11, 4, 28, 8, 18, 6, 14]
+RUTA 5 : [30, 26, 24]
+
+FITNESS = 864.42
+TIEMPO DE EJECUCIÓN = 28.916 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 90
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [3, 2, 23, 28, 4, 11, 8, 18, 14]
+RUTA 2 : [6, 19, 17, 31, 21, 13, 26]
+RUTA 3 : [25, 10, 15, 9, 22, 29, 5, 20]
+RUTA 4 : [30, 16, 12, 1, 7]
+RUTA 5 : [27, 24]
+
+FITNESS = 819.36
+TIEMPO DE EJECUCIÓN = 29.013 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 91
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [6, 3, 2, 23, 4, 11, 28]
+RUTA 2 : [19, 17, 31, 21, 13, 7, 26]
+RUTA 3 : [12, 1, 16, 30, 14, 24]
+RUTA 4 : [20, 5, 25, 10, 15, 22, 18, 8, 9, 29]
+RUTA 5 : [27]
+
+FITNESS = 832.13
+TIEMPO DE EJECUCIÓN = 29.115 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 92
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 18, 8, 4, 11, 28, 23, 2, 3]
+RUTA 2 : [12, 1, 7, 16, 30]
+RUTA 3 : [17, 19, 31, 21, 13, 6, 26]
+RUTA 4 : [9, 22, 29, 15, 10, 25, 5, 20]
+RUTA 5 : [27, 24]
+
+FITNESS = 832.09
+TIEMPO DE EJECUCIÓN = 29.185 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 93
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [18, 11, 4, 28, 23, 3, 2, 6, 26]
+RUTA 2 : [13, 17, 19, 31, 21, 1]
+RUTA 3 : [14, 29, 8, 22, 9, 15, 10, 25, 5, 20]
+RUTA 4 : [27, 24, 7, 16, 12]
+RUTA 5 : [30]
+
+FITNESS = 821.11
+TIEMPO DE EJECUCIÓN = 29.009 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 94
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 2, 3, 23, 28, 4, 11, 8, 18, 14]
+RUTA 2 : [13, 21, 31, 19, 17, 6]
+RUTA 3 : [30, 7, 1, 12, 16]
+RUTA 4 : [25, 10, 15, 22, 9, 29, 5, 20]
+RUTA 5 : [24, 27]
+
+FITNESS = 819.45
+TIEMPO DE EJECUCIÓN = 29.058 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 95
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [26, 7, 13, 17, 19, 31, 21]
+RUTA 2 : [24, 14, 18, 22, 9, 8, 11, 4, 6]
+RUTA 3 : [27, 29, 10, 15, 25, 5, 20]
+RUTA 4 : [28, 23, 2, 3, 16, 30]
+RUTA 5 : [12, 1]
+
+FITNESS = 888.47
+TIEMPO DE EJECUCIÓN = 29.117 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 96
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 28, 23, 3, 2, 13, 7, 30]
+RUTA 2 : [6, 18, 8, 11, 4, 9, 22, 15, 29]
+RUTA 3 : [20, 10, 25, 5, 27, 24]
+RUTA 4 : [1, 21, 31, 19, 17, 26]
+RUTA 5 : [12, 16]
+
+FITNESS = 886.35
+TIEMPO DE EJECUCIÓN = 29.115 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 97
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 19, 17, 31, 21, 13]
+RUTA 2 : [14, 27, 29, 15, 10, 25, 5, 20]
+RUTA 3 : [24, 22, 9, 4, 28, 18, 8, 11]
+RUTA 4 : [26, 7, 6, 23, 3, 2, 16, 30]
+RUTA 5 : [12]
+
+FITNESS = 896.01
+TIEMPO DE EJECUCIÓN = 29.158 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 98
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [1, 19, 17, 31, 21, 13]
+RUTA 2 : [14, 6, 23, 2, 3, 7, 16, 26, 30]
+RUTA 3 : [18, 11, 4, 28, 8, 9, 22, 15, 29]
+RUTA 4 : [24, 27, 5, 10, 25, 20]
+RUTA 5 : [12]
+
+FITNESS = 861.75
+TIEMPO DE EJECUCIÓN = 29.231 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 99
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [14, 9, 22, 18, 8, 11, 4, 28, 23, 30]
+RUTA 2 : [16, 21, 31, 17, 19, 13, 26]
+RUTA 3 : [27, 29, 10, 15, 25, 5, 20]
+RUTA 4 : [12, 1, 7, 6, 3, 2]
+RUTA 5 : [24]
+
+FITNESS = 865.06
+TIEMPO DE EJECUCIÓN = 29.004 segundos
+
+-------------------------------------------------------------------------------------
+
+ITERACIÓN 100
+CANTIDAD DE VEHÍCULOS = 5
+CAPACIDAD POR VEHÍCULOS = 100
+
+RUTAS
+RUTA 1 : [23, 2, 3, 19, 17, 31, 21]
+RUTA 2 : [26, 6, 13, 7, 1, 12]
+RUTA 3 : [15, 9, 22, 18, 8, 4, 11, 28, 14]
+RUTA 4 : [20, 5, 25, 10, 29, 27, 24]
+RUTA 5 : [30, 16]
+
+FITNESS = 868.23
+TIEMPO DE EJECUCIÓN = 29.093 segundos
+
+-------------------------------------------------------------------------------------
+
+MEJOR SOLUCIÓN = 804.66
+PEOR SOLUCIÓN = 915.08
+PROMEDIO DE SOLUCIONES = 850.86
+MEJOR TIEMPO = 28.816 segundos
+PEOR TIEMPO = 31.366 segundos
+PROMEDIO DE TIEMPOS = 29.2 segundos
+TOTAL DE TIEMPOS = 2919.961 segundos
+MEJOR MÉTRICA DE EVALUACIÓN = 0.000224
+PEOR MÉTRICA DE EVALUACIÓN = 0.001627
+PROMEDIO DE MÉTRICAS DE EVALUACIÓN = 0.000811

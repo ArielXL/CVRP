@@ -1,4 +1,4 @@
-# Problema de Enrutamiento de Vehı́culos con Capacidad, Ventana de Tiempo e Ida y Recogida Utilizando Algoritmos Genéticos
+# Problema de Enrutamiento de Vehı́culos con Capacidad Utilizando Algoritmos Genéticos
 
 ## Autores
 
